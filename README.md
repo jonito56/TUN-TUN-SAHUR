@@ -14,13 +14,6 @@ TDS:GameInfo("Honey Valley", {
     ExplodingEnemies = true
 })
 
-TDS:Place("Phantom", 2.01080, 60, 6.63390) -- 1
-TDS:Place("Phantom", 5.52977, 60, 9.92086) -- 2
-TDS:Place("Phantom", 3.61165, 60, -2.06873) -- 3
-TDS:Place("Phantom", 8.34719, 60, 2.13215) -- 4
-TDS:Place("Phantom", 5.20685, 60, -34.30589) -- 5
-
-
 TDS:Place("Scout", 5.52977, 60, 9.92086) -- 1
 TDS:Place("Scout", 5.52977, 60, 9.92086) -- 1
 TDS:Place("Scout", 5.52977, 60, 9.92086) -- 1
