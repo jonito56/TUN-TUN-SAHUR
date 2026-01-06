@@ -70,11 +70,11 @@ TDS:Place("Mercenary Base", 8.34719, 60, 2.13215) -- 1
 TDS:Upgrade(13)
 TDS:Upgrade(13)
 TDS:Upgrade(13)
-TDS:Place("Mercenary Base", 25.50013, 95, 31.50266) -- 4
+TDS:Place("Mercenary Base", 5.20685, 60, -34.30589) -- 4
 TDS:Upgrade(14)
 TDS:Upgrade(14)
 TDS:Upgrade(14)
-TDS:Place("Mercenary Base", 25.50013, 95, 31.50266) -- 4
+TDS:Place("Mercenary Base", 5.20685, 60, -34.30589) -- 4
 TDS:Upgrade(15)
 TDS:Upgrade(15)
 TDS:Upgrade(15)
@@ -179,19 +179,19 @@ TDS:Upgrade(23)
 TDS:Upgrade(23)
 TDS:Upgrade(23)
 TDS:Upgrade(23)
-TDS:Place("Accelerator", 10.77823, 95, -1.17001) -- 7
+TDS:Place("Accelerator", 3.61165, 60, -2.06873) -- 7
 TDS:Upgrade(24)
 TDS:Upgrade(24)
 TDS:Upgrade(24)
 TDS:Upgrade(24)
 TDS:Upgrade(24)
-TDS:Place("Accelerator", 10.77823, 95, -1.17001) -- 7
+TDS:Place("Accelerator", 3.61165, 60, -2.06873) -- 7
 TDS:Upgrade(25)
 TDS:Upgrade(25)
 TDS:Upgrade(25)
 TDS:Upgrade(25)
 TDS:Upgrade(25)
-TDS:Place("Accelerator", 10.77823, 95, -1.17001) -- 7
+TDS:Place("Accelerator", 3.61165, 60, -2.06873) -- 7
 TDS:Upgrade(26)
 TDS:Upgrade(26)
 TDS:Upgrade(26)
@@ -200,7 +200,7 @@ TDS:Upgrade(26)
 TDS:Upgrade(12)
 TDS:Upgrade(18)
 TDS:Upgrade(19)
-TDS:Place("Hacker", 2.41596, 95, 5.66609) -- 7
+TDS:Place("Hacker", 2.01080, 60, 6.63390) -- 7
 TDS:Upgrade(27)
 TDS:Upgrade(27)
 TDS:Upgrade(27)
@@ -226,9 +226,9 @@ TDS:Ability(12, "Support Caravan", {Nill} , true)
 TDS:Ability(18, "Support Caravan", {Nill} , true)
 TDS:Ability(19, "Support Caravan", {Nill} , true)
 
-TDS:Place("Accelerator", 10.77823, 95, -1.17001) -- 7
+TDS:Place("Accelerator", 3.61165, 60, -2.06873) -- 7
 TDS:Upgrade(28)
-TDS:Place("Accelerator", 10.77823, 95, -1.17001) -- 7
+TDS:Place("Accelerator", 3.61165, 60, -2.06873) -- 7
 TDS:Upgrade(29)
 TDS:Upgrade(28)
 TDS:Upgrade(28)
@@ -238,7 +238,7 @@ TDS:Upgrade(29)
 TDS:Upgrade(29)
 TDS:Upgrade(29)
 TDS:Upgrade(29)
-TDS:Place("Accelerator", 10.77823, 95, -1.17001) -- 7
+TDS:Place("Accelerator", 3.61165, 60, -2.06873) -- 7
 TDS:Upgrade(30)
 TDS:Upgrade(30)
 TDS:Upgrade(30)
