@@ -14,40 +14,47 @@ TDS:GameInfo("Honey Valley", {
     ExplodingEnemies = true
 })
 
-TDS:Place("Scout", 4.44022, 60, -0.96513) -- 1
-TDS:Place("Scout", 4.44022, 60, -0.96513) -- 1
-TDS:Place("Scout", 4.44022, 60, -0.96513) -- 1
+TDS:Place("Phantom", 2.01080, 60, 6.63390) -- 1
+TDS:Place("Phantom", 5.52977, 60, 9.92086) -- 2
+TDS:Place("Phantom", 3.61165, 60, -2.06873) -- 3
+TDS:Place("Phantom", 8.34719, 60, 2.13215) -- 4
+TDS:Place("Phantom", 5.20685, 60, -34.30589) -- 5
+
+
+TDS:Place("Scout", 5.52977, 60, 9.92086) -- 1
+TDS:Place("Scout", 5.52977, 60, 9.92086) -- 1
+TDS:Place("Scout", 5.52977, 60, 9.92086) -- 1
 TDS:Upgrade(1)
 TDS:Upgrade(2)
 TDS:Upgrade(3)
 TDS:Upgrade(1)
 TDS:Upgrade(2)
 TDS:Upgrade(3)
-TDS:Place("Scout", 15.84596, 95, -8.56942) -- 1
+TDS:Place("Scout", 5.52977, 60, 9.92086) -- 1
 TDS:Upgrade(4)
 TDS:Upgrade(4)
-TDS:Place("Scout", 15.84596, 95, -8.56942) -- 1
+TDS:Place("Scout", 5.52977, 60, 9.92086) -- 1
 TDS:Upgrade(5)
 TDS:Upgrade(5)
-TDS:Place("Scout", 15.84596, 95, -8.56942) -- 1
+TDS:Place("Scout", 5.52977, 60, 9.92086) -- 1
 TDS:Upgrade(6)
 TDS:Upgrade(6)
-TDS:Place("Scout", 15.84596, 95, -8.56942) -- 1
+TDS:Place("Scout", 2.01080, 60, 6.63390) -- 1
 TDS:Upgrade(7)
 TDS:Upgrade(7)
-TDS:Place("Scout", 15.84596, 95, -8.56942) -- 1
+TDS:Place("Scout", 2.01080, 60, 6.63390) -- 1
 TDS:Upgrade(8)
 TDS:Upgrade(8)
-TDS:Place("Scout", 16.82256, 95, -14.32172) -- 1
+TDS:Place("Scout", 2.01080, 60, 6.63390) -- 1
 TDS:Upgrade(9)
 TDS:Upgrade(9)
-TDS:Place("Scout", 16.82256, 95, -14.32172) -- 1
+TDS:Place("Scout", 5.52977, 60, 9.92086) -- 1
 TDS:Upgrade(10)
 TDS:Upgrade(10)
-TDS:Place("Hacker", 21.44075, 95, -14.06827) -- 2
+TDS:Place("Hacker", 5.52977, 60, 9.92086) -- 2
 TDS:Upgrade(11)
 TDS:Upgrade(11)
-TDS:Place("Commander", 15.77075, 95, -1.05920) -- 1
+TDS:Place("Commander", 2.01080, 60, 6.63390) -- 1
 TDS:Upgrade(1)
 TDS:Upgrade(2)
 TDS:Upgrade(3)
@@ -59,7 +66,7 @@ TDS:Upgrade(8)
 TDS:Upgrade(9)
 TDS:Upgrade(10)
 TDS:Upgrade(1)
-TDS:Place("Mercenary Base", 15.77075, 95, -1.05920) -- 1
+TDS:Place("Mercenary Base", 8.34719, 60, 2.13215) -- 1
 TDS:Upgrade(13)
 TDS:Upgrade(13)
 TDS:Upgrade(13)
@@ -74,9 +81,9 @@ TDS:Upgrade(15)
 
 TDS:Loadout("Rocketeer", "DJ Booth", "Paintballer", "Firework Technician", "Commander")
 
-TDS:Place("Firework Technician", 15.77075, 95, -1.05920) -- 4
+TDS:Place("Firework Technician", 2.01080, 60, 6.63390) -- 4
 TDS:Upgrade(16)
-TDS:Place("DJ Booth", 15.77075, 95, -1.05920) -- 4
+TDS:Place("DJ Booth", 2.01080, 60, 6.63390) -- 4
 TDS:Upgrade(17)
 TDS:Upgrade(17)
 TDS:Upgrade(17)
@@ -84,10 +91,10 @@ TDS:Upgrade(17)
 TDS:SetOption(17, "Track", "Green")
 TDS:Ability(17, "Drop The Beat", {Nill} , true)
 
-TDS:Place("Commander", 15.77075, 95, -1.05920) -- 1
+TDS:Place("Commander", 2.01080, 60, 6.63390) -- 1
 TDS:Upgrade(18)
 TDS:Upgrade(18)
-TDS:Place("Commander", 15.77075, 95, -1.05920) -- 1
+TDS:Place("Commander", 2.01080, 60, 6.63390) -- 1
 TDS:Upgrade(19)
 TDS:Upgrade(19)
 TDS:Upgrade(12)
@@ -126,7 +133,7 @@ TDS:Ability(15, "Air-Drop", {pathName = 1, directionCFrame = CFrame.new(), dist 
 
 TDS:Loadout("Sniper", "Warlock", "Accelerator", "Harvester", "Hacker")
 
-TDS:Place("Warlock", 15.84596, 95, -8.56942) -- 6
+TDS:Place("Warlock", 0.32170, 60, 14.38052) -- 6
 TDS:Upgrade(20)
 TDS:Upgrade(20)
 TDS:Upgrade(20)
@@ -138,14 +145,14 @@ TDS:Upgrade(11)
 TDS:Upgrade(12)
 TDS:Upgrade(18)
 TDS:Upgrade(19)
-TDS:Place("Warlock", 15.84596, 95, -8.56942) -- 6
+TDS:Place("Warlock", 0.32170, 60, 14.38052) -- 6
 TDS:Upgrade(21)
 TDS:Upgrade(21)
 TDS:Upgrade(21)
 TDS:Upgrade(21)
 TDS:Upgrade(21)
 TDS:Upgrade(16)
-TDS:Place("Warlock", 15.84596, 95, -8.56942) -- 6
+TDS:Place("Warlock", 0.32170, 60, 14.38052) -- 6
 TDS:Upgrade(22)
 TDS:Upgrade(22)
 
@@ -166,7 +173,7 @@ TDS:Upgrade(22)
 TDS:Upgrade(22)
 TDS:Upgrade(17)
 TDS:Upgrade(17)
-TDS:Place("Warlock", 15.84596, 95, -8.56942) -- 6
+TDS:Place("Warlock", 0.32170, 60, 14.38052) -- 6
 TDS:Upgrade(23)
 TDS:Upgrade(23)
 TDS:Upgrade(23)
@@ -203,15 +210,15 @@ TDS:Upgrade(27)
 TDS:Ability(11, "Hologram Tower", {
     towerToClone = 20,
     towerPosition = {
-        Vector3.new(15.84596, 95, -8.56942),
+        Vector3.new(0.32170, 60, 14.38052),
     }
 }, true)
 
 TDS:Ability(27, "Hologram Tower", {
     towerToClone = 21,
     towerPosition = {
-        Vector3.new(15.84596, 95, -8.56942),
-        Vector3.new(15.84596, 95, -8.56942),
+        Vector3.new(0.32170, 60, 14.38052),
+        Vector3.new(0.32170, 60, 14.38052),
     }
 }, true)
 
