@@ -14,22 +14,22 @@ TDS:GameInfo("Honey Valley", {
     ExplodingEnemies = true
 })
 
-TDS:Place("Scout", 5.52977, 60, 9.92086) -- 1
-TDS:Place("Scout", 5.52977, 60, 9.92086) -- 1
-TDS:Place("Scout", 5.52977, 60, 9.92086) -- 1
+TDS:Place("Scout", 5.52977, 35, 9.92086) -- 1
+TDS:Place("Scout", 5.52977, 35, 9.92086) -- 1
+TDS:Place("Scout", 5.52977, 35, 9.92086) -- 1
 TDS:Upgrade(1)
 TDS:Upgrade(2)
 TDS:Upgrade(3)
 TDS:Upgrade(1)
 TDS:Upgrade(2)
 TDS:Upgrade(3)
-TDS:Place("Scout", 5.52977, 60, 9.92086) -- 1
+TDS:Place("Scout", 5.52977, 35, 9.92086) -- 1
 TDS:Upgrade(4)
 TDS:Upgrade(4)
-TDS:Place("Scout", 5.52977, 60, 9.92086) -- 1
+TDS:Place("Scout", 5.52977, 35, 9.92086) -- 1
 TDS:Upgrade(5)
 TDS:Upgrade(5)
-TDS:Place("Scout", 5.52977, 60, 9.92086) -- 1
+TDS:Place("Scout", 5.52977, 35, 9.92086) -- 1
 TDS:Upgrade(6)
 TDS:Upgrade(6)
 TDS:Place("Scout", 2.01080, 60, 6.63390) -- 1
