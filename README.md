@@ -109,7 +109,7 @@ TDS:Upgrade(13)
 TDS:Upgrade(13)
 TDS:Upgrade(13)
 
-TDS:Ability(13, "Air-Drop", {pathName = 1, directionCFrame = CFrame.new(), dist = 50}, true)
+TDS:Ability(13, "Air-Drop", {pathName = 1, directionCFrame = CFrame.new(), dist = 250}, true)
 
 TDS:Upgrade(14)
 TDS:Upgrade(14)
@@ -117,17 +117,17 @@ TDS:Upgrade(14)
 
 TDS:SetOption(14, "Unit 1", "Field Medic")
 
-TDS:Ability(14, "Air-Drop", {pathName = 1, directionCFrame = CFrame.new(), dist = 50}, true)
+TDS:Ability(14, "Air-Drop", {pathName = 1, directionCFrame = CFrame.new(), dist = 250}, true)
 
 TDS:Upgrade(15)
 TDS:Upgrade(15)
 TDS:Upgrade(15)
 
-TDS:Ability(15, "Air-Drop", {pathName = 1, directionCFrame = CFrame.new(), dist = 50}, true)
+TDS:Ability(15, "Air-Drop", {pathName = 1, directionCFrame = CFrame.new(), dist = 250}, true)
 
 TDS:Loadout("Sniper", "Warlock", "Accelerator", "Harvester", "Hacker")
 
-TDS:Place("Warlock", -0.18010, 1.00, 14.17562) -- 6
+TDS:Place("Warlock", -0.59082, 1.00, 15.16840) -- 6
 TDS:Upgrade(20)
 TDS:Upgrade(20)
 TDS:Upgrade(20)
@@ -139,14 +139,14 @@ TDS:Upgrade(11)
 TDS:Upgrade(12)
 TDS:Upgrade(18)
 TDS:Upgrade(19)
-TDS:Place("Warlock", -0.18010, 1.00, 14.17562) -- 6
+TDS:Place("Warlock", -0.59082, 1.00, 15.16840) -- 6
 TDS:Upgrade(21)
 TDS:Upgrade(21)
 TDS:Upgrade(21)
 TDS:Upgrade(21)
 TDS:Upgrade(21)
 TDS:Upgrade(16)
-TDS:Place("Warlock", -0.18010, 1.00, 14.17562) -- 6
+TDS:Place("Warlock", -0.59082, 1.00, 15.16840) -- 6
 TDS:Upgrade(22)
 TDS:Upgrade(22)
 
@@ -167,7 +167,7 @@ TDS:Upgrade(22)
 TDS:Upgrade(22)
 TDS:Upgrade(17)
 TDS:Upgrade(17)
-TDS:Place("Warlock", -0.18010, 1.00, 14.17562) -- 6
+TDS:Place("Warlock", -0.59082, 1.00, 15.16840) -- 6
 TDS:Upgrade(23)
 TDS:Upgrade(23)
 TDS:Upgrade(23)
@@ -199,20 +199,20 @@ TDS:Upgrade(27)
 TDS:Upgrade(27)
 TDS:Upgrade(27)
 TDS:Upgrade(27)
-TDS:Upgrade(27)
+TDS:Upgrade(27, 2)
 
 TDS:Ability(11, "Hologram Tower", {
     towerToClone = 20,
     towerPosition = {
-        Vector3.new(0.32170, 60, 14.38052),
+        Vector3.new(-0.59082, 1.00, 15.16840),
     }
 }, true)
 
 TDS:Ability(27, "Hologram Tower", {
     towerToClone = 21,
     towerPosition = {
-        Vector3.new(0.32170, 60, 14.38052),
-        Vector3.new(0.32170, 60, 14.38052),
+        Vector3.new(-0.59082, 1.00, 15.16840),
+        Vector3.new(-0.59082, 1.00, 15.16840),
     }
 }, true)
 
