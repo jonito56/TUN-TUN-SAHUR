@@ -1,7 +1,7 @@
 _G.AutoStrat = true
 
 -- [[ INITIALIZE LIBRARY ]]
-local TDS = loadstring(game:HttpGet("https://raw.githubusercontent.com/DuxiiT/auto-strat/refs/heads/main/Library.lua"))()
+local TDS = loadstring(game:HttpGet("https://raw.githubusercontent.com/raxs0420/test/refs/heads/main/library%20new/new%20ui%20test%20test.lua"))()
 
 TDS:Loadout("", "Scout", "Commander", "Mercenary Base", "Hacker")
 TDS:Mode("Frost")
@@ -15,9 +15,9 @@ TDS:GameInfo("Honey Valley", {
 
 TDS:Ready()
 
-TDS:Place("Scout", 4.46638, -5.01791, 0.49499, 1, 0, 0, 0, 1, 0, 0, 0, 1) -- 1
-TDS:Place("Scout", 4.46638, -5.01791, 0.49499, 1, 0, 0, 0, 1, 0, 0, 0, 1) -- 1
-TDS:Place("Scout", 4.46638, -5.01791, 0.49499, 1, 0, 0, 0, 1, 0, 0, 0, 1) -- 1
+TDS:Place("Scout", 4.46638, -5.01791, 0.49499) -- 1
+TDS:Place("Scout", 4.46638, -5.01791, 0.49499) -- 1
+TDS:Place("Scout", 4.46638, -5.01791, 0.49499) -- 1
 TDS:Upgrade(1)
 TDS:Upgrade(2)
 TDS:Upgrade(3)
