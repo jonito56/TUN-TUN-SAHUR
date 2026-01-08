@@ -150,16 +150,6 @@ TDS:Place("Warlock", -0.59082, 1.00, 15.16840) -- 6
 TDS:Upgrade(22)
 TDS:Upgrade(22)
 
-TDS:SetOption(13, "Unit 1", "Riot Guard")
-TDS:SetOption(13, "Unit 2", "Riot Guard")
-TDS:SetOption(13, "Unit 3", "Riot Guard")
-TDS:SetOption(14, "Unit 1", "Riot Guard")
-TDS:SetOption(14, "Unit 2", "Riot Guard")
-TDS:SetOption(14, "Unit 3", "Riot Guard")
-TDS:SetOption(15, "Unit 1", "Field Medic")
-TDS:SetOption(15, "Unit 2", "Riot Guard")
-TDS:SetOption(15, "Unit 3", "Rifleman")
-
 TDS:SetOption(17, "Track", "Red")
 
 TDS:Upgrade(22)
@@ -185,6 +175,17 @@ TDS:Upgrade(25)
 TDS:Upgrade(25)
 TDS:Upgrade(25)
 TDS:Upgrade(25)
+
+TDS:SetOption(13, "Unit 1", "Riot Guard")
+TDS:SetOption(13, "Unit 2", "Riot Guard")
+TDS:SetOption(13, "Unit 3", "Riot Guard")
+TDS:SetOption(14, "Unit 1", "Riot Guard")
+TDS:SetOption(14, "Unit 2", "Riot Guard")
+TDS:SetOption(14, "Unit 3", "Riot Guard")
+TDS:SetOption(15, "Unit 1", "Field Medic")
+TDS:SetOption(15, "Unit 2", "Riot Guard")
+TDS:SetOption(15, "Unit 3", "Rifleman")
+
 TDS:Place("Accelerator", 4.37877, 1.00, -2.68385) -- 7
 TDS:Upgrade(26)
 TDS:Upgrade(26)
@@ -194,7 +195,7 @@ TDS:Upgrade(26)
 TDS:Upgrade(12)
 TDS:Upgrade(18)
 TDS:Upgrade(19)
-TDS:Place("Hacker", 2.01080, 60, 6.63390) -- 7
+TDS:Place("Hacker", 5.86442, 1.00, 10.02095) -- 7
 TDS:Upgrade(27)
 TDS:Upgrade(27)
 TDS:Upgrade(27)
@@ -238,9 +239,5 @@ TDS:Upgrade(30)
 TDS:Upgrade(30)
 TDS:Upgrade(30)
 TDS:Upgrade(30)
-
-TDS:Ability(13, "Air-Drop", {pathName = 1, directionCFrame = CFrame.new(), dist = 125}, true)
-TDS:Ability(14, "Air-Drop", {pathName = 1, directionCFrame = CFrame.new(), dist = 125}, true)
-
 TDS:Upgrade(16)
 TDS:Upgrade(16)
