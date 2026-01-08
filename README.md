@@ -15,9 +15,9 @@ TDS:GameInfo("Honey Valley", {
 
 TDS:Ready()
 
-TDS:Place("Scout", 4.46638, -5.01791, 0.49499) -- 1
-TDS:Place("Scout", 4.46638, -5.01791, 0.49499) -- 1
-TDS:Place("Scout", 4.46638, -5.01791, 0.49499) -- 1
+TDS:Place("Scout", 4.46638, 1.00, 0.49499) -- 1
+TDS:Place("Scout", 4.46638, 1.00, 0.49499) -- 2
+TDS:Place("Scout", 4.46638, 1.00, 0.49499) -- 3
 TDS:Upgrade(1)
 TDS:Upgrade(2)
 TDS:Upgrade(3)
