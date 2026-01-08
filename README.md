@@ -17,7 +17,7 @@ TDS:Ready()
 
 TDS:Place("Scout", 4.46638, 1.00, 0.49499) -- 1
 TDS:Place("Scout", 4.46638, 1.00, 0.49499) -- 2
-TDS:Place("Scout", 4.46638, 1.00, 0.49499) -- 3
+TDS:Place("Scout", 5.86442, 1.00, 10.02095) -- 3
 TDS:Upgrade(1)
 TDS:Upgrade(2)
 TDS:Upgrade(3)
