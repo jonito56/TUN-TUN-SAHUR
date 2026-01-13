@@ -125,7 +125,7 @@ TDS:Upgrade(15)
 
 TDS:Ability(15, "Air-Drop", {pathName = 1, directionCFrame = CFrame.new(), dist = 150}, true)
 
-TDS:Loadout("Sniper", "Warlock", "Accelerator", "Harvester", "Hacker")
+TDS:Loadout("Sniper", "Warlock", "Accelerator", "Farm", "Hacker")
 
 TDS:Place("Warlock", -0.59082, 1.00, 15.16840) -- 6
 TDS:Upgrade(20)
