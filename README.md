@@ -127,7 +127,7 @@ TDS:Ability(15, "Air-Drop", {pathName = 1, directionCFrame = CFrame.new(), dist 
 
 TDS:Loadout("Sniper", "Warlock", "Accelerator", "Farm", "Hacker")
 
-TDS:Place("Warlock", -0.59082, 1.00, 15.16840) -- 6
+TDS:Place("Accelerator", 4.37877, 1.00, -2.68385) -- 6
 TDS:Upgrade(20)
 TDS:Upgrade(20)
 TDS:Upgrade(20)
@@ -139,14 +139,14 @@ TDS:Upgrade(11)
 TDS:Upgrade(12)
 TDS:Upgrade(18)
 TDS:Upgrade(19)
-TDS:Place("Warlock", -0.59082, 1.00, 15.16840) -- 6
+TDS:Place("Accelerator", 4.37877, 1.00, -2.68385) -- 6
 TDS:Upgrade(21)
 TDS:Upgrade(21)
 TDS:Upgrade(21)
 TDS:Upgrade(21)
 TDS:Upgrade(21)
 TDS:Upgrade(16)
-TDS:Place("Warlock", -0.59082, 1.00, 15.16840) -- 6
+TDS:Place("Accelerator", 4.37877, 1.00, -2.68385) -- 6
 TDS:Upgrade(22)
 TDS:Upgrade(22)
 
@@ -157,7 +157,7 @@ TDS:Upgrade(22)
 TDS:Upgrade(22)
 TDS:Upgrade(17)
 TDS:Upgrade(17)
-TDS:Place("Warlock", -0.59082, 1.00, 15.16840) -- 6
+TDS:Place("Accelerator", 4.37877, 1.00, -2.68385) -- 6
 TDS:Upgrade(23)
 TDS:Upgrade(23)
 TDS:Upgrade(23)
@@ -169,7 +169,7 @@ TDS:Upgrade(24)
 TDS:Upgrade(24)
 TDS:Upgrade(24)
 TDS:Upgrade(24)
-TDS:Place("Accelerator", 4.37877, 1.00, -2.68385) -- 7
+TDS:Place("Warlock", -0.59082, 1.00, 15.16840) -- 7
 TDS:Upgrade(25)
 TDS:Upgrade(25)
 TDS:Upgrade(25)
@@ -186,7 +186,7 @@ TDS:SetOption(15, "Unit 1", "Field Medic")
 TDS:SetOption(15, "Unit 2", "Riot Guard")
 TDS:SetOption(15, "Unit 3", "Rifleman")
 
-TDS:Place("Accelerator", 4.37877, 1.00, -2.68385) -- 7
+TDS:Place("Warlock", -0.59082, 1.00, 15.16840) -- 7
 TDS:Upgrade(26)
 TDS:Upgrade(26)
 TDS:Upgrade(26)
@@ -221,9 +221,9 @@ TDS:Ability(12, "Support Caravan", {Nill} , true)
 TDS:Ability(18, "Support Caravan", {Nill} , true)
 TDS:Ability(19, "Support Caravan", {Nill} , true)
 
-TDS:Place("Accelerator", 4.37877, 1.00, -2.68385) -- 7
+TDS:Place("Warlock", 4.37877, 1.00, -2.68385) -- 7
 TDS:Upgrade(28)
-TDS:Place("Accelerator", 4.37877, 1.00, -2.68385) -- 7
+TDS:Place("Warlock", 4.37877, 1.00, -2.68385) -- 7
 TDS:Upgrade(29)
 TDS:Upgrade(28)
 TDS:Upgrade(28)
@@ -233,7 +233,7 @@ TDS:Upgrade(29)
 TDS:Upgrade(29)
 TDS:Upgrade(29)
 TDS:Upgrade(29)
-TDS:Place("Accelerator", 4.37877, 1.00, -2.68385) -- 7
+TDS:Place("Minigunner", 4.37877, 1.00, -2.68385) -- 7
 TDS:Upgrade(30)
 TDS:Upgrade(30)
 TDS:Upgrade(30)
