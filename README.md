@@ -134,15 +134,12 @@ TDS:Upgrade(21)
 TDS:Upgrade(21)
 TDS:Upgrade(21)
 TDS:Upgrade(21)
-TDS:Upgrade(16)
 TDS:Place("Accelerator", 4.37877, 1.00, -2.68385) -- 6
 TDS:Upgrade(22)
 TDS:Upgrade(22)
 TDS:Upgrade(22)
 TDS:Upgrade(22)
 TDS:Upgrade(22)
-TDS:Upgrade(17)
-TDS:Upgrade(17)
 TDS:Place("Accelerator", 4.37877, 1.00, -2.68385) -- 6
 TDS:Upgrade(23)
 TDS:Upgrade(23)
@@ -220,6 +217,9 @@ TDS:SetOption(15, "Unit 1", "Riot Guard")
 TDS:SetOption(15, "Unit 2", "Riot Guard")
 TDS:SetOption(15, "Unit 3", "Riot Guard")
 
+TDS:Upgrade(17)
+TDS:Upgrade(17)
+TDS:Upgrade(16)
 TDS:Place("Warlock", 4.37877, 1.00, -2.68385) -- 7
 TDS:Upgrade(28)
 TDS:Place("Warlock", 4.37877, 1.00, -2.68385) -- 7
