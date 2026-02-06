@@ -109,7 +109,7 @@ TDS:Upgrade(13)
 TDS:Upgrade(13)
 TDS:Upgrade(13)
 
-TDS:Ability(13, "Air-Drop", {pathName = 1, directionCFrame = CFrame.new(), dist = 170}, true)
+TDS:Ability(13, "Air-Drop", {pathName = 1, directionCFrame = CFrame.new(), dist = 130}, true)
 
 TDS:Upgrade(14)
 TDS:Upgrade(14)
@@ -117,13 +117,13 @@ TDS:Upgrade(14)
 
 TDS:SetOption(14, "Unit 1", "Field Medic")
 
-TDS:Ability(14, "Air-Drop", {pathName = 1, directionCFrame = CFrame.new(), dist = 170}, true)
+TDS:Ability(14, "Air-Drop", {pathName = 1, directionCFrame = CFrame.new(), dist = 130}, true)
 
 TDS:Upgrade(15)
 TDS:Upgrade(15)
 TDS:Upgrade(15)
 
-TDS:Ability(15, "Air-Drop", {pathName = 1, directionCFrame = CFrame.new(), dist = 170}, true)
+TDS:Ability(15, "Air-Drop", {pathName = 1, directionCFrame = CFrame.new(), dist = 130}, true)
 
 TDS:Loadout("Sniper", "Warlock", "Accelerator", "Farm", "Hacker")
 
