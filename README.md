@@ -113,16 +113,6 @@ TDS:Ability(13, "Air-Drop", {pathName = 1, directionCFrame = CFrame.new(), dist 
 
 TDS:Loadout("Sniper", "Warlock", "Accelerator", "Farm", "Hacker")
 
-TDS:SetOption(13, "Unit 1", "Riot Guard")
-TDS:SetOption(13, "Unit 2", "Riot Guard")
-TDS:SetOption(13, "Unit 3", "Riot Guard")
-TDS:SetOption(14, "Unit 1", "Riot Guard")
-TDS:SetOption(14, "Unit 2", "Riot Guard")
-TDS:SetOption(14, "Unit 3", "Riot Guard")
-TDS:SetOption(15, "Unit 1", "Riot Guard")
-TDS:SetOption(15, "Unit 2", "Riot Guard")
-TDS:SetOption(15, "Unit 3", "Riot Guard")
-
 TDS:Place("Accelerator", 4.37877, 1.00, -2.68385) -- 6
 TDS:Upgrade(20)
 TDS:Upgrade(20)
@@ -219,6 +209,16 @@ TDS:Upgrade(15)
 TDS:Upgrade(15)
 
 TDS:Ability(15, "Air-Drop", {pathName = 1, directionCFrame = CFrame.new(), dist = 130}, true)
+
+TDS:SetOption(13, "Unit 1", "Riot Guard")
+TDS:SetOption(13, "Unit 2", "Riot Guard")
+TDS:SetOption(13, "Unit 3", "Riot Guard")
+TDS:SetOption(14, "Unit 1", "Riot Guard")
+TDS:SetOption(14, "Unit 2", "Riot Guard")
+TDS:SetOption(14, "Unit 3", "Riot Guard")
+TDS:SetOption(15, "Unit 1", "Riot Guard")
+TDS:SetOption(15, "Unit 2", "Riot Guard")
+TDS:SetOption(15, "Unit 3", "Riot Guard")
 
 TDS:Place("Warlock", 4.37877, 1.00, -2.68385) -- 7
 TDS:Upgrade(28)
