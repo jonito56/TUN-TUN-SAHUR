@@ -111,20 +111,6 @@ TDS:Upgrade(13)
 
 TDS:Ability(13, "Air-Drop", {pathName = 1, directionCFrame = CFrame.new(), dist = 130}, true)
 
-TDS:Upgrade(14)
-TDS:Upgrade(14)
-TDS:Upgrade(14)
-
-TDS:SetOption(14, "Unit 1", "Field Medic")
-
-TDS:Ability(14, "Air-Drop", {pathName = 1, directionCFrame = CFrame.new(), dist = 130}, true)
-
-TDS:Upgrade(15)
-TDS:Upgrade(15)
-TDS:Upgrade(15)
-
-TDS:Ability(15, "Air-Drop", {pathName = 1, directionCFrame = CFrame.new(), dist = 130}, true)
-
 TDS:Loadout("Sniper", "Warlock", "Accelerator", "Farm", "Hacker")
 
 TDS:SetOption(13, "Unit 1", "Riot Guard")
@@ -219,6 +205,20 @@ TDS:Ability(27, "Hologram Tower", {
 TDS:Ability(12, "Support Caravan", {Nill} , true)
 TDS:Ability(18, "Support Caravan", {Nill} , true)
 TDS:Ability(19, "Support Caravan", {Nill} , true)
+
+TDS:Upgrade(14)
+TDS:Upgrade(14)
+TDS:Upgrade(14)
+
+TDS:SetOption(14, "Unit 1", "Field Medic")
+
+TDS:Ability(14, "Air-Drop", {pathName = 1, directionCFrame = CFrame.new(), dist = 130}, true)
+
+TDS:Upgrade(15)
+TDS:Upgrade(15)
+TDS:Upgrade(15)
+
+TDS:Ability(15, "Air-Drop", {pathName = 1, directionCFrame = CFrame.new(), dist = 130}, true)
 
 TDS:Place("Warlock", 4.37877, 1.00, -2.68385) -- 7
 TDS:Upgrade(28)
