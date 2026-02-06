@@ -133,9 +133,9 @@ TDS:SetOption(13, "Unit 3", "Riot Guard")
 TDS:SetOption(14, "Unit 1", "Riot Guard")
 TDS:SetOption(14, "Unit 2", "Riot Guard")
 TDS:SetOption(14, "Unit 3", "Riot Guard")
-TDS:SetOption(15, "Unit 1", "Field Medic")
+TDS:SetOption(15, "Unit 1", "Riot Guard")
 TDS:SetOption(15, "Unit 2", "Riot Guard")
-TDS:SetOption(15, "Unit 3", "Rifleman")
+TDS:SetOption(15, "Unit 3", "Riot Guard")
 
 TDS:Place("Accelerator", 4.37877, 1.00, -2.68385) -- 6
 TDS:Upgrade(20)
@@ -240,3 +240,6 @@ TDS:Upgrade(30)
 TDS:Upgrade(30)
 TDS:Upgrade(16)
 TDS:Upgrade(16)
+
+TDS:SetOption(15, "Unit 1", "Field Medic")
+TDS:SetOption(15, "Unit 3", "Rifleman")
